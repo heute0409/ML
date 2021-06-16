@@ -1,0 +1,20 @@
+1.Pytorch 
+https://docs.microsoft.com/ko-kr/learn/modules/intro-machine-learning-pytorch/
+
+--pytorch한국모임
+https://tutorials.pytorch.kr/beginner/data_loading_tutorial.html
+
+2.nlp 
+카카오브레인 
+https://www.kakaobrain.com 
+
+--NLU 동향 (자연어이해)
+https://www.kakaobrain.com/blog/118
+
+github.com/kakaobrain/pororo
+
+--blog site (딥러닝을 이용한 자연어 처리 입문)
+https://wikidocs.net/21667
+
+3.MS Computer Vision
+https://github.com/microsoft/computervision-recipes
